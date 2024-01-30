@@ -1,0 +1,255 @@
+@inproceedings{amin2016evaluation,
+  title={Evaluation of discrimination power of facial parts from 3D point cloud data},
+  author={Amin, Rafiul and Shams, A Farhan and Rahman, SM Mahbubur and Hatzinakos, Dimitrios},
+  booktitle={2016 9th International Conference on Electrical and Computer Engineering (ICECE)},
+  pages={602--605},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{amin2019sparse,
+  title={Sparse Deconvolution of Electrodermal Activity via Continuous-Time System Identification},
+  author={Amin, MR and Faghih, RT},
+  journal={IEEE transactions on bio-medical engineering},
+  year={2019}
+}
+
+@inproceedings{amin2018inferring,
+  title={Inferring Autonomic Nervous System Stimulation from Hand and Foot Skin Conductance Measurements},
+  author={Amin, MR and Faghih, RT},
+  booktitle={52nd Asilomar Conference on Signals, Systems, and Computers},
+  pages={655--660},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{wickramasuriya2019skin,
+  title={Skin conductance as a viable alternative for closing the deep brain stimulation loop in neuropsychiatric disorders},
+  author={Wickramasuriya, Dilranjan S and Amin, Md Rafiul and Faghih, Rose T},
+  journal={Frontiers in neuroscience},
+  volume={13},
+  pages={780},
+  year={2019},
+  publisher={Frontiers}
+}
+
+@inproceedings{parshi2019mental,
+  title={Mental Workload Classification via Hierarchical Latent Dictionary Learning: A Functional Near Infrared Spectroscopy Study},
+  author={Parshi, Srinidhi and Amin, Md. Rafiul and Azgomi, Hamid Fekri and Faghih, Rose T.},
+  booktitle={2019 IEEE EMBS International Conference on Biomedical \& Health Informatics (BHI)},
+  year={2019}
+}
+
+@inproceedings{amin2019tonic,
+  title={Tonic and Phasic Decomposition of Skin Conductance Data: A Generalized-Cross-Validation-Based Block Coordinate Descent Approach},
+  author={Amin, Md. Rafiul and Faghih, Rose T.},
+  booktitle={2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  year={2019}
+}
+
+@inproceedings{pednekar2019system,
+  title={A System Theoretic Investigation of Cortisol Dysregulation in Fibromyalgia Patients with Chronic Fatigue},
+  author={Pednekar, Divesh Deepak and Amin, Md. Rafiul and Azgomi, Hamid Fekri and Aschbacher, Kirstin and Crofford, Leslie J. and Faghih, Rose T.},
+  booktitle={2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  year={2019}
+}
+
+@article{amin2019robust,
+  title={Robust Inference of Autonomic Nervous System Activation using Skin Conductance Measurements: A Multi-Channel Sparse System Identification Approach},
+  author={Amin, Md. Rafiul and Faghih, Rose T.},
+  journal={IEEE Access},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{amin2019wearable,
+  title={Wearable-Machine Interface Architectures for Mental Stress},
+  author={Amin, Md. Rafiul and Wickramasuriya, Dilranjan Sunimal and Faghih, Rose T.},
+  booktitle={2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}
+}
+
+@article{pednekar2020characterization,
+  title={Characterization of Cortisol Dysregulation in Fibromyalgia and Chronic Fatigue Syndromes: A State-Space Approach},
+  author={Pednekar, Divesh Deepak and Amin, Md. Rafiul and Azgomi, Hamid Fekri and Aschbacher, Kirstin and Crofford, Leslie J. and Faghih, Rose T.},
+  journal={IEEE Transactions on Biomedical Engineering},
+  year={2020},
+  publisher={IEEE}
+}
+
+@inproceedings{seet2020olfactory,
+  title={Olfactory-induced positive affect and autonomic response as a function of hedonic and intensity attributes of fragrances},
+  author={Seet, Manuel S and Amin, Md Rafiul and Abbasi, Nida I and Hamano, Junji and Chaudhury, Anumita and Bezerianos, Anastasios and Faghih, Rose T and Thakor, Nitish V and Dragomir, Andrei},
+  booktitle={2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={3170--3173},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{amin2020identification,
+  title={Identification of Sympathetic Nervous System Activation from Skin Conductance: A Sparse Decomposition Approach with Physiological Priors},
+  author={Amin, Md. Rafiul and Faghih, Rose T.},
+  journal={IEEE Transactions on Biomedical Engineering},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{paek2021roadmap,
+  title={A roadmap towards standards for neurally controlled end effectors},
+  author={Paek, Andrew Y and Brantley, Justin A and Ravindran, Akshay Sujatha and Nathan, Kevin and He, Yongtian and Eguren, David and Cruz-Garza, Jesus G and Nakagome, Sho and Wickramasuriya, Dilranjan S and Chang, Jiajun and others},
+  journal={IEEE open journal of engineering in medicine and biology},
+  volume={2},
+  pages={84--90},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{genty2020inferring,
+  title={Inferring autonomic nervous system activation from noisy wearable electrodermal activity data with the goal of investigating the relationship between vocal hyperfunction and emotional arousal},
+  author={Genty, Jon X and Amin, Md Rafiul},
+  journal={Summer Undergraduate Research Fellowship},
+  year={2020}
+}
+
+@article{jon2021sparse,
+  title={Sparse Deconvolution of Pulsatile Growth Hormone Secretion in Adolescents},
+  author={Jon X. Genty, Md. Rafiul Amin, Natalie D. Shaw, Elizabeth B. Klerman, Rose T. Faghih},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year={2021}
+}
+
+@misc{chavarriaga2020standards,
+  title={Standards roadmap: Neurotechnologies for brain-machine interfacing},
+  author={Chavarriaga, Ricardo and Bush, Stephen and Contreras-Vidal, Jose and McKinney, Zach and Mayaud, Louis and Soman, Sumit and Ravindran, Akshay and Tukiainen, Aleksi and Ramos-Murguialday, Ander and Biasiucci, Andrea and others},
+  journal={IEEE Standards},
+  number={ISBN 978-1-5044-6496-3     STDVA24082},
+  year={2020}
+}
+
+@inproceedings{amin2021state,
+  title={A state-space investigation of impact of music on cognitive performance during a working memory experiment},
+  author={Amin, Md Rafiul and Tahir, Maryam and Faghih, Rose T},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={757--762},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{yaghmour2021decoding,
+  title={Decoding a music-modulated cognitive arousal state using electrodermal activity and functional near-infrared spectroscopy measurements},
+  author={Yaghmour, Anan and Amin, Md Rafiul and Faghih, Rose T},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={1055--1060},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{khazaei2021decoding,
+  title={Decoding a neurofeedback-modulated cognitive arousal state to investigate performance regulation by the Yerkes-Dodson law},
+  author={Khazaei, Saman and Amin, Md Rafiul and Faghih, Rose T},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={6551--6557},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{amin2022sparse,
+  title={Sparse System Identification of Leptin Dynamics in Women With Obesity},
+  author={Amin, Md Rafiul and Pednekar, Divesh Deepak and Azgomi, Hamid Fekri and van Wietmarschen, Herman and Aschbacher, Kirstin and Faghih, Rose T},
+  journal={Frontiers in Endocrinology},
+  volume={13},
+  pages={769951},
+  year={2022},
+  publisher={Frontiers}
+}
+
+@inproceedings{amin2022wearable,
+  title={A Wearable Exam Stress Dataset for Predicting Grades using Physiological Signals},
+  author={Amin, Md Rafiul and Wickramasuriya, Dilranjan S and Faghih, Rose T},
+  booktitle={2022 IEEE Healthcare Innovations and Point of Care Technologies (HI-POCT)},
+  pages={30--36},
+  year={2022},
+  organization={IEEE}
+}
+
+@misc{faghih2022systems,
+  title={Systems and methods for estimating a nervous system state based on measurement of a physiological condition},
+  author={Faghih, Rose T and Wickramasuriya, Dilranjan S and Amin, Md Rafiul},
+  year={2022},
+  month=may # "~12",
+  note={US Patent App. 17/514,129}
+}
+
+@phdthesis{amin2021scalable,
+  title={Scalable and Robust Inference of Sparse Brain Signals via Personalized Physiological System Identification},
+  author={AMIN, MD RAFIUL and others},
+  year={2021}
+}
+
+@article{amin2022physiological,
+  title={Physiological characterization of electrodermal activity enables scalable near real-time autonomic nervous system activation inference},
+  author={Amin, Rafiul and Faghih, Rose T},
+  journal={PLoS computational biology},
+  volume={18},
+  number={7},
+  pages={e1010275},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{amin2022or14,
+  title={OR14-4 Acute sleep disruption does not diminish pulsatile growth hormone secretion in pubertal children},
+  author={Amin, Rafiul and Faghih, Rose T and Genty, Jon and Kangarloo, Tairmae and Klerman, Elizabeth B and Molsberry, Samantha and Shaw, Natalie D and Calvert, Madison},
+  journal={Journal of the Endocrine Society},
+  volume={6},
+  number={Suppl 1},
+  pages={A614},
+  year={2022},
+  publisher={The Endocrine Society}
+}
+
+@misc{md2022wearable,
+  title={A Wearable Exam Stress Dataset for Predicting Cognitive Performance in Real-World Settings},
+  author={Md Rafiul Amin, Dilranjan Wickramasuriya, Rose T Faghih},
+  journal={https://doi.org/10.13026/kvkb-aj90},
+  year={2022}
+}
+
+@article{amin2022corrigendum,
+  title={Corrigendum: Sparse system identification of leptin dynamics in women with obesity},
+  author={Amin, Md Rafiul and Pednekar, Divesh Deepak and Azgomi, Hamid Fekri and van Wietmarschen, Herman and Aschbacher, Kirstin and Faghih, Rose T},
+  journal={Frontiers in Endocrinology},
+  volume={13},
+  pages={1078146},
+  year={2022},
+  publisher={Frontiers}
+}
+
+@inproceedings{khazaei2022decoding,
+  title={Decoding a Neurofeedback-Modulated Performance State in Presence of a Time-Varying Process Noise Variance},
+  author={Khazaei, Saman and Amin, Md Rafiul and Faghih, Rose T},
+  booktitle={2022 56th Asilomar Conference on Signals, Systems, and Computers},
+  pages={990--996},
+  year={2022},
+  organization={IEEE}
+}
+
+@article{fekri2023regulation,
+  title={Regulation of brain cognitive states through auditory, gustatory, and olfactory stimulation with wearable monitoring},
+  author={Fekri Azgomi, Hamid and F. Branco, Luciano R and Amin, Md Rafiul and Khazaei, Saman and Faghih, Rose T},
+  journal={Scientific reports},
+  volume={13},
+  number={1},
+  pages={12399},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{alam2023sparse,
+  title={Sparse Multichannel Decomposition of Electrodermal Activity With Physiological Priors},
+  author={Alam, Samiul and Amin, Md Rafiul and Faghih, Rose T},
+  journal={IEEE Open Journal of Engineering in Medicine and Biology},
+  volume={4},
+  pages={234--250},
+  year={2023},
+  publisher={IEEE}
+}
